@@ -11,6 +11,6 @@ class SingleInnerClass private constructor() {
     }
 
     fun init(){
-        
+
     }
 }
